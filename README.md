@@ -72,6 +72,5 @@ If you would like to contribute to this repository, feel free to fork the projec
 ## License
 This repository is open-source and available under the [MIT License](LICENSE).
 
----
-Happy coding!
+
 
