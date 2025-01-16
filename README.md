@@ -1,6 +1,6 @@
 # CNS Lab
 
-This repository contains a collection of programs and algorithms commonly used in Computer Network Security (CNS) labs. Each file implements a specific cryptographic or security-related algorithm. Below is a detailed description of the directory structure and the contents of the repository.
+This repository contains a collection of programs and algorithms commonly used in Cryptography and Network Security (CNS) labs. Each file implements a specific cryptographic or security-related algorithm. Below is a detailed description of the directory structure and the contents of the repository.
 
 ## Directory Structure
 ```
